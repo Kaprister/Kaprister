@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Kaprister/Kaprister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am Sushant Kumar Kapri 👋
 
-Here are some ideas to get you started:
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 I live in Kolkata, India
+- I am currently working with technologies based on Javascript. Technologies such as ReactJS, NodeJS.
+- I usually work with design systems and ui-component based react projects and make complex and beautiful components.
+- I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
+- My Tech Stack: HTML, CSS, JavaScript, ReactJS, ExpressJS, NodeJS, TailwindCSS, Figma, MongoDB, MySql.
+- Languages I know: C, C++, JavaScript.
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+- My socials are listed below
+    - LinkedIn at [Sushant Kumar Kapri](https://www.linkedin.com/in/sushant-kumar-kapri-694a87235/)
+    - Portfolio/Website at [Kaprister07](https://kaprister.github.io/MY_Portfolio/)
+    - Mail me at [sushantkapri@gmail.com](sushantkapri@gmail.com) regarding any work or if you just wanna connect
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️

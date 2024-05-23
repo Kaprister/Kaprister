@@ -8,7 +8,7 @@ Hello, I am Sushant Kumar Kapri 👋
 - I usually work with design systems and ui-component based react projects and make complex and beautiful components.
 - I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
 - My Tech Stack: HTML, CSS, JavaScript, ReactJS, ExpressJS, NodeJS, TailwindCSS, Figma, MongoDB, MySql.
-- Languages I know: C, C++, JavaScript.
+- Languages I know: C, C++, JavaScript, Python.
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 

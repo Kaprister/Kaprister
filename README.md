@@ -1,20 +1,42 @@
+# 👋 Hello, I'm **Sushant Kumar Kapri**
 
-Hello, I am Sushant Kumar Kapri 👋
+🚀 **Full-Stack Developer 
+🌍 Based in **Kolkata, India**
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+---
 
-- 📍 I live in Kolkata, India
-- I am currently working with technologies based on Java and JavaScript. Technologies such as Spring Framework, ReactJS, NodeJS, JSP, Servlet.
-- I usually work with design systems and ui-component based react projects and make complex and beautiful components.
-- I do Product Design, Backend Development, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
-- My Tech Stack: HTML, CSS, JavaScript, ReactJS, ExpressJS, NodeJS, TailwindCSS, Figma, sql, MongoDB, MySql, Java, JSP, Servlet, Spring, SpringBoot.
-- Languages I know: Java, C, C++, JavaScript, Python.
+### 💻 **What I Do**  
+I'm a passionate software engineer and designer working with both **frontend** and **backend** technologies. I specialize in creating **beautiful and complex components**, building **design systems**, and delivering **scalable and high-performance applications**.
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+**Technologies I work with**:  
+- **Frontend**: ReactJS, JavaScript, TailwindCSS, HTML, CSS  
+- **Backend**: Spring, Spring Boot, NodeJS, ExpressJS, Java, MySQL, MongoDB  
+- **Others**: Figma, JSP, Servlet, SQL, Python
 
-- My socials are listed below
-    - LinkedIn at [Sushant Kumar Kapri](https://www.linkedin.com/in/sushant-kumar-kapri-694a87235/)
-    - Portfolio/Website at [Kaprister07](https://kaprister.github.io/MY_Portfolio/)
-    - Mail me at [sushantkapri@gmail.com](sushantkapri@gmail.com) regarding any work or if you just wanna connect
+---
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+### 🛠 **Tech Stack**
+- **Languages**: Java, C, C++, JavaScript, Python  
+- **Frontend**: ReactJS, TailwindCSS, HTML, CSS  
+- **Backend**: Spring, Spring Boot, NodeJS, ExpressJS  
+- **Databases**: MySQL, MongoDB  
+- **Design & Tools**: Figma, JSP, Servlet, SQL
+
+---
+
+### 🌱 **What I'm Currently Learning**  
+I’m always exploring new technologies, improving my design skills, and staying updated with the latest trends in web development and product design.
+
+---
+
+### 📣 **Let’s Connect**
+- **LinkedIn**: [Sushant Kumar Kapri](https://www.linkedin.com/in/sushant-kumar-kapri-694a87235/)  
+- **Portfolio**: [Kaprister07](https://kaprister.github.io/MY_Portfolio/)  
+- **Email**: [sushantkapri@gmail.com](mailto:sushantkapri@gmail.com)  
+
+---
+
+### 🏆 **A Few Highlights**  
+- 💡 Building **innovative UI components** and **design systems**.  
+- 🛠️ Working on **scalable backend architectures**.  
+- 🎨 Passionate about **product design** and delivering exceptional **user experiences**.

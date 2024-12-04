@@ -4,11 +4,11 @@ Hello, I am Sushant Kumar Kapri 👋
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 - 📍 I live in Kolkata, India
-- I am currently working with technologies based on Javascript. Technologies such as ReactJS, NodeJS.
+- I am currently working with technologies based on Java and JavaScript. Technologies such as Spring Framework, ReactJS, NodeJS, JSP, Servlet.
 - I usually work with design systems and ui-component based react projects and make complex and beautiful components.
-- I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
-- My Tech Stack: HTML, CSS, JavaScript, ReactJS, ExpressJS, NodeJS, TailwindCSS, Figma, MongoDB, MySql.
-- Languages I know: C, C++, JavaScript, Python.
+- I do Product Design, Backend Development, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
+- My Tech Stack: HTML, CSS, JavaScript, ReactJS, ExpressJS, NodeJS, TailwindCSS, Figma, sql, MongoDB, MySql, Java, JSP, Servlet, Spring, SpringBoot.
+- Languages I know: Java, C, C++, JavaScript, Python.
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
